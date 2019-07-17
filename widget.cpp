@@ -131,6 +131,4 @@ void Widget::on_PBReturn_clicked()
 {
     ReturnMoney();
     ResetMoney();
-    //ui->PBCoke->setEnabled(false);
-
 }
